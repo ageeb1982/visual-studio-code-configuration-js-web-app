@@ -52,3 +52,41 @@ Past this:
   "html.trace.server": "off",
 }
 ```
+
+My VSCode Setting in work:
+```
+{
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "highlight-matching-tag.highlightSelfClosing": true,
+    "git.enableSmartCommit": true,
+    "html.format.endWithNewline": true,
+    "html.format.wrapAttributes": "force-aligned",
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "html.format.indentHandlebars": true,
+    "html.format.maxPreserveNewLines": 1,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "editor.tabSize": 2,
+    "prettier.printWidth": 120,
+    "prettier.bracketSpacing": false,
+    "scss.lint.argumentsInColorFunction": "warning",
+    "breadcrumbs.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.showTabs": true,
+    "editor.minimap.enabled": true,
+    "files.autoSave": "afterDelay",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
+```
+
+
+
+
